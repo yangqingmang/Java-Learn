@@ -20,6 +20,7 @@
     <modules>
         <module>springboot-helloworld</module>
         <module>springboot-helloworld-jetty</module>
+        <module>springboot-base</module>
     </modules>
 
 
