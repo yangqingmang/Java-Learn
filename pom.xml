@@ -19,6 +19,7 @@
 
     <modules>
         <module>springboot-helloworld</module>
+        <module>springboot-helloworld-jetty</module>
     </modules>
 
 
