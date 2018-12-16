@@ -1,5 +1,5 @@
-# springboot-learn
-springboot 2.0 学习
+# Java-Learn
+java 学习
 
 - [springboot-helloworld](https://github.com/yangqingmang/springboot-learn/tree/master/springboot-helloworld) springboot 2.0 helloworld 示例
 - [springboot-helloworld-jetty](https://github.com/yangqingmang/springboot-learn/tree/master/springboot-helloworld-jetty) springboot 2.0 helloworld 示例 使用jetty服务器
