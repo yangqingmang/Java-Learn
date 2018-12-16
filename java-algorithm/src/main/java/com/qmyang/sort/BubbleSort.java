@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * 冒泡排序
  */
-public class BubbleSort {
+public class BubbleSort extends Sort {
 
     public void sort(int[] a) {
         if (a.length <= 0) {
@@ -24,25 +24,6 @@ public class BubbleSort {
             }
             print(a);
         }
-    }
-
-    private void swap(int[] a, int i, int j) {
-        int tmp = a[j];
-        a[j] = a[i];
-        a[i] = tmp;
-    }
-
-    void print(int[] a) {
-        System.out.print("[");
-        for(int i = 0; i < a.length; i++){
-            System.out.print(a[i]);
-            if (i != a.length - 1) {
-                System.out.print(",");
-            }
-
-        }
-        System.out.print("]");
-        System.out.println();
     }
 
     public static void main(String[] args) {
