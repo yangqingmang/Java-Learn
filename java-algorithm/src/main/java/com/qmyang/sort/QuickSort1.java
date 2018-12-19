@@ -2,7 +2,7 @@ package com.qmyang.sort;
 
 /**
  * 快速排序
- *
+ * 逻辑：选择基准数字
  * @author yangqingmang
  * @version 1.0
  * @date Create in 2018-12-19 17:06

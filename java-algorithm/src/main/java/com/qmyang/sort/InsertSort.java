@@ -2,6 +2,8 @@ package com.qmyang.sort;
 
 /**
  * 插入排序
+ * 逻辑，如果需要插入的数据小于前面的数字，则姜当前数字和前一个数字交换
+ * 继续判断当前数字和前一个数字
  */
 public class InsertSort extends Sort {
 
