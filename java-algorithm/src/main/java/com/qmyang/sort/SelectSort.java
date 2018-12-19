@@ -1,5 +1,8 @@
 package com.qmyang.sort;
 
+/**
+ * 选择排序
+ */
 public class SelectSort extends Sort {
 
     public void sort(int[] a) {

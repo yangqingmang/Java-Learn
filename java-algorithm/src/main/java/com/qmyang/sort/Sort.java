@@ -2,6 +2,9 @@ package com.qmyang.sort;
 
 public abstract class Sort {
     protected void swap(int[] a, int i, int j) {
+        if (i == j) {
+            return;
+        }
         int tmp = a[i];
         a[i] = a[j];
         a[j] = tmp;

@@ -1,5 +1,8 @@
 package com.qmyang.sort;
 
+/**
+ * 插入排序2
+ */
 public class InsertSort2 extends Sort {
 
     public void sort(int[] a) {
